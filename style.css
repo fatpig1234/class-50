@@ -1,0 +1,19 @@
+h1 {
+    color:aqua;
+}
+    
+
+.header{
+    background-color: rgb(161, 127, 255);
+    display: flex;
+    justify-content:space-between ;
+}
+.grid{
+    display:flex;
+    justify-content:space-evenly ;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
